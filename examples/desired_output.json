@@ -1,0 +1,14 @@
+{
+    "rate": 0.13412784,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2012-01-02",
+    "companies": [
+        {
+            "companyCode": "string",
+            "active": true
+        }
+    ],
+    "externalCode": "4847-31231212-212121-1212",
+    "lastUpdated": "2019-07-03T02:12:10.717Z"
+}
