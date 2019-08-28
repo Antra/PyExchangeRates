@@ -12,7 +12,7 @@ companies = {'NG': '',
              'NG500': 'SEK',
              'NG600': 'JPY',
              'NG700': 'MXN'}
-
+date = ''
 currencies = set(filter(None, companies.values()))
 
 
@@ -23,14 +23,15 @@ def get_reverse_rate(rate):
 def get_currency(currency):
     request_url = exchange_rate_url + '?base=' + currency
     response = requests.get(request_url)
-    return response.json()['rates']
+    date = response.json()['date']
+    return response.json()['rates'], date
 
 
 responses = {}
 
 for currency in currencies:
 
-    responses[currency] = get_currency(currency)
+    responses[currency], date = get_currency(currency)
     time.sleep(1)
 
 # Just EUR
@@ -47,3 +48,18 @@ for key, value in responses['EUR'].items():
           str(value) + " against EUR\n")
     print("currency " + key + " has exchange rate " +
           str(get_reverse_rate(value)) + " against EUR (reversed)\n")
+
+# Did we get the date as well? We should have
+print(date)
+
+
+def generate_currency_pair(currency1, currency2, rate):
+    pass
+
+
+# How do I actually generate a file?
+# for currency in currencies
+#     for currency2 in responses[currency].keys()
+#           curr_pair_list = generate_currency_pair(currency, currency2, responses[currency][currency2])
+#           valid_from = date
+#           companies = get_companies(currency)
