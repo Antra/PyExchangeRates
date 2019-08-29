@@ -5,8 +5,7 @@ import time
 import uuid
 
 
-# Some basics
-exchange_rate_url = 'https://api.exchangeratesapi.io/latest'
+# Configuration section - update companies and auth to your setup.
 companies = {'NG': '',
              'NG100': 'EUR',
              'NG200': 'USD',
@@ -15,11 +14,14 @@ companies = {'NG': '',
              'NG500': 'SEK',
              'NG600': 'JPY',
              'NG700': 'MXN'}
-currencies = set(filter(None, companies.values()))
-basware_exchange_rate_url = 'https://test-api.basware.com/v1/exchangeRates'
-
 # add API username and password inside the single-quotes below, e.g.: auth = ('api-user', 'secret-password')
 auth = ('user', 'pass')
+
+
+# Some constants for the functions
+exchange_rate_url = 'https://api.exchangeratesapi.io/latest'
+basware_exchange_rate_url = 'https://test-api.basware.com/v1/exchangeRates'
+currencies = set(filter(None, companies.values()))
 
 
 def add_timestamps(list):
@@ -84,6 +86,7 @@ def generate_currency_pair(currency1, currency2, companies, rate, date):
     return [currency_pair, currency_pair_reverse]
 
 
+# Get the exchange rates from the API
 rates = {}
 for currency in currencies:
     rates[currency], rates[currency]['date'] = get_api_rates(currency)
@@ -112,13 +115,11 @@ for currency in currencies:
 json_data = []
 
 # for currency in currencies -- currencies holds a unique list, so we don't risk double-generating anything
-# - company_list = get_companies_by_currency(currency)
-# - date = rates[currency][date]
-# - for rate in rates[currency]:
-# -- if rate != 'date':
-# --- exchange_rate = rates[currency][rate]
-# --- json_data.extend(generate_currency_pair(currency, rate, company_list, exchange_rate, date))
-
+# then build the list of companies using that currency
+# extract the date for that currency
+# loop through all the exchange rates for that currency
+# avoid mistaking the 'date' entry for an exchange rate
+# lastly, generate the currency-pair (forward and reverse rate) one-by-one and extend the json_data list with the result
 for currency in currencies:
     company_list = get_companies_by_currency(currency)
     date = rates[currency]['date']
