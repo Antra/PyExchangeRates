@@ -12,7 +12,7 @@ companies = {'NG': '',
              'NG500': 'SEK',
              'NG600': 'JPY',
              'NG700': 'MXN'}
-date = ''
+#date = ''
 currencies = set(filter(None, companies.values()))
 
 
@@ -31,7 +31,7 @@ responses = {}
 
 for currency in currencies:
 
-    responses[currency], date = get_currency(currency)
+    responses[currency], responses[currency]['date'] = get_currency(currency)
     time.sleep(1)
 
 # Just EUR
@@ -44,13 +44,15 @@ print(get_reverse_rate(responses['EUR']['CAD']))
 print(responses['EUR'].keys())
 
 for key, value in responses['EUR'].items():
-    print("currency " + key + " has exchange rate " +
-          str(value) + " against EUR\n")
-    print("currency " + key + " has exchange rate " +
-          str(get_reverse_rate(value)) + " against EUR (reversed)\n")
+    if key != 'date':
+        print("currency " + key + " has exchange rate " +
+              str(value) + " against EUR\n")
+        print("currency " + key + " has exchange rate " +
+              str(get_reverse_rate(value)) + " against EUR (reversed)\n")
 
 # Did we get the date as well? We should have
-print(date)
+print(responses['EUR']['date'])
+print(responses['JPY']['date'])
 
 
 def generate_currency_pair(currency1, currency2, rate):
