@@ -1,6 +1,9 @@
 import requests
 import json
+from datetime import datetime
 import time
+import uuid
+
 
 # Some basics
 exchange_rate_url = 'https://api.exchangeratesapi.io/latest'
@@ -12,56 +15,114 @@ companies = {'NG': '',
              'NG500': 'SEK',
              'NG600': 'JPY',
              'NG700': 'MXN'}
-#date = ''
 currencies = set(filter(None, companies.values()))
+
+
+def add_timestamps(list):
+    index = 0
+    while index < len(list):
+        list[index]['lastUpdated'] = str(datetime.utcnow())
+        index += 1
+    return list
 
 
 def get_reverse_rate(rate):
     return 1 / rate
 
 
-def get_currency(currency):
+def get_api_rates(currency):
     request_url = exchange_rate_url + '?base=' + currency
     response = requests.get(request_url)
     date = response.json()['date']
     return response.json()['rates'], date
 
 
-responses = {}
+def get_companies_by_currency(currency):
+    companylist = []
+    for key, value in companies.items():
+        if value == currency:
+            companylist.append(key)
+    return companylist
 
+
+def generate_currency_pair(currency1, currency2, companies, rate, date):
+    currency_pair = {}
+    currency_pair_reverse = {}
+    company_list = []
+
+    # generate the array of company codes
+    for company in companies:
+        company_list.append(dict({"companyCode": company,
+                                  "active": True}))
+
+    # generate the 'forward' exchange rate; currency1 (base) -> currency2
+    currency_pair['rate'] = rate
+    currency_pair['currencyCodeTo'] = currency1
+    currency_pair['currencyCodeFrom'] = currency2
+    currency_pair['validFrom'] = date
+    currency_pair['companies'] = company_list
+    currency_pair['externalCode'] = str(uuid.uuid4())
+    currency_pair['lastUpdated'] = ''
+    # generate the 'reverse' exchange rate; currency2 -> currency1 (base)
+    currency_pair_reverse['rate'] = get_reverse_rate(rate)
+    currency_pair_reverse['currencyCodeTo'] = currency2
+    currency_pair_reverse['currencyCodeFrom'] = currency1
+    currency_pair_reverse['validFrom'] = date
+    currency_pair_reverse['companies'] = company_list
+    currency_pair_reverse['externalCode'] = str(uuid.uuid4())
+    currency_pair_reverse['lastUpdated'] = ''
+    # return the currency pairs as a list to make life easier
+    return [currency_pair, currency_pair_reverse]
+
+
+rates = {}
 for currency in currencies:
-
-    responses[currency], responses[currency]['date'] = get_currency(currency)
+    rates[currency], rates[currency]['date'] = get_api_rates(currency)
     time.sleep(1)
 
-# Just EUR
-print(responses['EUR'])
-# Just EUR -> CAD rate
-print(responses['EUR']['CAD'])
-# Just EUR -> CAD rate (reverse)
-print(get_reverse_rate(responses['EUR']['CAD']))
-# Just all the currencies relating to EUR
-print(responses['EUR'].keys())
-
-for key, value in responses['EUR'].items():
-    if key != 'date':
-        print("currency " + key + " has exchange rate " +
-              str(value) + " against EUR\n")
-        print("currency " + key + " has exchange rate " +
-              str(get_reverse_rate(value)) + " against EUR (reversed)\n")
-
-# Did we get the date as well? We should have
-print(responses['EUR']['date'])
-print(responses['JPY']['date'])
+# rates is now a dictionary with a key-value pair for each base currency
+# the value is another dictionary with key-value pairs of all the currencies and rates - followed by 'date' and an ISO date-string
+# example:
+# {
+#      'EUR': {
+#           'CAD': 0.1363670099,
+#           'HKD': 0.8059745802,
+#           'USD': 1.1072
+#           'date': '2019-08-29'
+#     },
+#     'USD': {
+#           'CAD': 1.3275830925,
+#           'HKD': 7.8464595376,
+#           'EUR': 0.9031791908,
+#           'date': '2019-08-29'
+#     }
+# }
 
 
-def generate_currency_pair(currency1, currency2, rate):
-    pass
+# Okay, now that rates is built, let's start constructing our output.
+json_data = []
+
+# for currency in currencies -- currencies holds a unique list, so we don't risk double-generating anything
+# - company_list = get_companies_by_currency(currency)
+# - date = rates[currency][date]
+# - for rate in rates[currency]:
+# -- if rate != 'date':
+# --- exchange_rate = rates[currency][rate]
+# --- json_data.extend(generate_currency_pair(currency, rate, company_list, exchange_rate, date))
+
+for currency in currencies:
+    company_list = get_companies_by_currency(currency)
+    date = rates[currency]['date']
+    for rate in rates[currency]:
+        if rate != 'date':
+            exchange_rate = rates[currency][rate]
+            json_data.extend(generate_currency_pair(
+                currency, rate, company_list, exchange_rate, date))
 
 
-# How do I actually generate a file?
-# for currency in currencies
-#     for currency2 in responses[currency].keys()
-#           curr_pair_list = generate_currency_pair(currency, currency2, responses[currency][currency2])
-#           valid_from = date
-#           companies = get_companies(currency)
+# add 'lastUpdated' timestamps
+json_data = add_timestamps(json_data)
+
+# Let's save a copy
+with open('exchange_rates.json', 'w') as f:
+    json.dump(json_data, f)
