@@ -1,0 +1,6443 @@
+https://test-api.basware.com/v1/exchangeRates returned HTTP status code: 200
+[
+  {
+    "rate": 1.4699,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "ed9163f7-749a-457d-aa2c-8804d2fa012d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6803183890060548,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "dd218d8c-dc63-4d0e-81c3-e5708dc03cb2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 8.6876,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "46f98d8d-c1d6-4d07-8d1f-9f99fcb01ad6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.11510658870113726,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "735656e1-0956-433a-b983-742640268139",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 138.1,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "9097c045-5ea7-440a-a42f-ad3062f16606",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00724112961622013,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "3ee597a4-be5c-4e95-a038-4675d0e01769",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 57.793,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "429864be-0570-42d6-9b9d-42f35934905f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.017303133597494507,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "dd94e5ef-f132-4a66-a92e-d4e0fa3cdb74",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.457,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "e6a2b305-2ff9-4dd5-ba9e-5dfe58562773",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1341021858656296,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "f08f5b82-b7a0-4f0b-80f5-9f12a3a7c511",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 330.26,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "61b713a5-9706-44d7-a682-cb9d5357a2c4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0030279173984133715,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "3b2314e6-dd80-4231-a73a-e6187fc0da24",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 25.853,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "630df2dd-ff94-4aa8-8e76-6f405ea8f4a4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.03868023053417398,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "f277bdba-8094-4c3c-978a-fd9c521d7ce7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.6402,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "fd0eb42a-4f33-4be3-8348-982f1838a3c4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6096817461285209,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "fcc3e85c-c3bb-4c24-a8f0-a2451e18afa8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.7271,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "564dc3f5-8075-4e9a-a076-369a7fe23590",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.21154619111082903,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "85b95ce7-0ee7-46fa-8f6f-162e1d5da721",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.779,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "01e6ab91-82d1-4081-8082-c87466adfdc6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.09277298450691158,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "f9827cf4-0c83-4fae-8d69-20782635f338",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 15718.92,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "fd951eb4-bd2b-4e85-9431-66942da7f286",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00006361760222712502,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "7cf85395-9d9e-4645-8124-714b4158de74",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 79.3415,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "347aada5-8578-4698-a3b3-924523d5d33e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.012603744572512494,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "9c3420a8-7e31-4bdc-b195-d95bad92e86a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.5908,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "fe0dea92-c3cb-4a0a-9aa0-a23ee9545d1b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2178269582643548,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "104ef757-4e3b-436c-81d7-96af15bce9a6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 73.675,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "85c7a505-653d-415e-8903-110a15383961",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.013573125212080083,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "4c6e811b-11b3-4548-9732-66172fef2ba1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.4035,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "ccb621da-6c7d-461e-bcd4-18b40ce67c8e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.13507125008441953,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "6ee74447-f446-4f53-b28f-58125d9a227a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 117.68,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "2b3ce3c7-c95e-4d7a-bfe7-af5bc2a31949",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00849762066621346,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "d6401bba-47fa-47e3-a3c2-cf9ae754d1cf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 33.886,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "979b5e89-9a49-4b3f-8e47-c5252c61e1f0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.02951071238859706,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "8852898c-dad6-4b42-9182-91440221a804",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.088,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "2093b270-e37b-4f55-84c8-3d70f0fcff43",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9191176470588235,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "e2d17e8c-4296-479c-a8aa-869418719165",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5354,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "04e42135-76a2-41ba-baee-74e46e061406",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6512960791976032,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "aea30b13-3636-4f2e-a792-408acf3fe548",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.3809,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "7f6f30f8-78d1-4086-b68c-a6d58f683b46",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.22826359880389877,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "7bb36df2-d5e5-495b-a9d8-d13c81bc2be5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.9558,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "3ab43f75-a1e5-40a7-be2a-5ff7f8dd0939",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5112997238981491,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "8d725330-23c8-403b-bf4f-ef0e1f22b0ae",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.4594,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "8761de06-cbdc-44d7-ae2a-693efbf8e8a8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.15481314053936898,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "c6239a66-acf4-4035-86a1-be10d2d43601",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.9081,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "bc59c416-08b0-4dba-bc2f-97230443ad12",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.12645262452422198,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "6e21cc33-c878-422c-8615-8c9c7a1e6f70",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.0365,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "a6fd6ca0-3a44-4c8b-9cbf-ea676066f576",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.09963632740497184,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "4f56ed59-7ffa-4702-8225-184b72d24031",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.7457,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "92f329e2-9eed-4e04-9aa9-ce1222a16a3e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5728361115884745,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "dfc4c6ad-48a2-40a5-8142-c515d4a9eede",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 16.895,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "e67550ab-560c-4c05-b42f-1cfc4d3798c9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.059189109203906486,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "6ddadcba-9077-40c7-b082-ca20e73dab7d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.1072,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "f59b918f-2e9b-4aef-b286-99c794ef660d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9031791907514451,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "90d8a648-10d1-433a-b88b-4b59f85dc82a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 22.2046,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "9a843e9f-97a5-49b7-a415-96b7d8c1355f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.045035713320663286,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "ebc41be3-fe96-4b20-ab93-16bce17c135c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.8997,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "4fd94bde-fb1b-4560-9f1a-5a38c753b9b4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.25642998179347126,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "6c9f1a54-c972-4393-bedf-e5fd1ca95739",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.90531,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "255c5539-b1fe-4cf0-9d1c-e493ad9ccd22",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.104594006472921,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "bf3297cf-0909-4c4b-986a-4d143ce5c860",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1340.01,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "39a233ea-753e-4c51-a2c6-b78d1557a52c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0007462630875888986,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "3aa2b298-2f63-432e-9f87-1564c53e8fc8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.6696,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "71481f0a-cc2a-4e41-bf61-bf63bd44251a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.21415110501970192,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG100",
+        "active": true
+      }
+    ],
+    "externalCode": "c0278a69-87bc-4e6b-8cfd-ab958d3f1e54",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.3275830925,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "26245875-6852-4e28-be92-c1a034cd69e3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7532485202993047,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "8b5e2a81-b21b-4a15-8888-da56a4b396a6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.8464595376,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "358b4919-5f66-45b8-b1a7-12e6d843ea54",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1274460150094485,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "fdd3c216-8a59-4c62-b00d-f1e45027eb8c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 124.7290462428,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "bd437eb1-70b7-4f0b-8c5f-05825cad82ee",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.008017378711077295,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "f3754bd8-4af1-4c0d-a2cc-7ce99be19da6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 52.1974349711,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "19b1541f-5b1f-4d4a-aac7-11374a2b4798",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.01915802951914528,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "fe7d274b-96ed-4256-a81e-75e88681747b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.7350072254,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "0e966630-60d6-4b06-9276-ec484111075e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1484779401911642,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "96cc1152-d004-4389-8582-17a0c8d24ee4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 298.2839595376,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "420ad51c-161b-4b9e-99e4-d2ce7239c0ed",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0033525101435229725,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "74e9e2ba-8c5e-488a-a55b-b798ebbb1e80",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 23.3498916185,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "dad59b7b-0c2c-4c5f-ab2b-6613345ea27d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.042826751247432134,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "42b760c6-9ced-494e-b6bc-cd14611157cb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8176571532,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "59ad8c4d-494d-4a5e-84f3-e21bbafcbf3b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.2230064839356927,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "bc374425-1a25-4896-89a0-6bd4c250ac22",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.2694183526,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "bb273d82-4286-4370-a1bd-6a04ef2b7b9d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.23422394279797334,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "fb4ee333-d2c2-4d01-b7c8-e38a7cf69ca2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.7353684971,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "8b26ffe9-6b26-4013-8ccd-77a0901cba6b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1027182484461562,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "7a341068-874a-44b4-9ef8-c9f49d15437d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 14197.0014450867,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "54a2cec5-774c-411e-9ad1-5f8d9096703e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00007043740918587285,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "76aa842b-a89f-4361-8f27-a22ef0e50e21",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 71.659591763,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "c71d4ed2-0095-4856-b129-7f87f19ef456",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.01395486599068696,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "bb9e405c-3026-4654-8010-1e838cef8119",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.1463150289,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "65c1e10a-6b20-4106-a52b-f827a5a1a9ae",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.24117800819039448,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "681ec7d8-63ac-405a-b6b1-9b1781446322",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 66.5417268786,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "2800fa5c-626a-4698-86a5-b443f6d9f006",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.015028164234817938,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "ccf78a5c-7259-466b-9732-bcace9e91bb7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.6866871387,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "d919bad4-ed9b-49b6-ba4a-926391baab24",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.14955088809410277,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "bd36e0c1-2bb4-468d-aa50-f3f04f21f2c0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 106.2861271676,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "62c14bcd-d96a-4cdd-b440-c33abc6badcb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.009408565601634203,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "8ba028d9-b926-47f9-82ed-7707f4861c9d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 30.6051300578,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "b3c7ef0d-8bc3-480d-9c22-ca8fd790c373",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.03267426075665837,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "b2bf0bce-5cac-4ac6-914d-770aeb23a86f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9826589595,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "68197657-674e-423f-aa9f-741e4ac17888",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0176470588624393,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "76560258-56d9-41fc-b4b3-6a9dd7970c68",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9031791908,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "d7dea46d-9283-4fdc-a5df-84571f909b44",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.107199999940477,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "3943a7d9-bb44-4951-aef2-d45c6e5ed9fb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.2174855491,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "23d169b3-f228-4e00-b9a7-0efee9c2a881",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2371081034796663,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "5fb676ed-6ceb-46df-9d30-a968bd1379d0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.7664378613,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "f58d323d-6ce3-4ca1-bfc4-09fbf8eab025",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5661110542909534,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "751da9b7-e2b6-41b1-acef-d0032f1f0981",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.8339956647,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "292d52a2-b084-4ecb-8cf8-8e4de8e48169",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.17140910920636118,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "cd0c7f5b-1ee9-4946-84d5-313ef1fb686f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.1424313584,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "4c2def2c-713f-4a5f-8b80-77ca5e0e8f5c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.14000834587285602,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "60e7e9db-a864-46ff-a243-92ffbc816b68",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.064757948,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "75810da6-83fc-40af-a4a6-855b296e42e9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.11031734170250344,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "25a92307-e3b1-4290-b0f2-c98780d5e56d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5766799133,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "a94e3304-4ba2-478f-9838-0219bd6acfec",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6342441427486663,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "2e88d96d-cb86-4542-b016-ef1bad527fd2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 15.2592124277,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "db189e3a-d017-4695-bd6d-8a853703705b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.06553418171076138,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "57f87243-8ace-4098-8255-700c9fbd95b9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "eeb2f298-ae20-48e8-a640-a0d7d18746e5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "2d58e28a-9b13-41a1-ace1-dee755057682",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 20.054732659,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "ca1eee88-878d-482a-bb53-b9344ec510c3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.04986354178853779,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "5066d170-85dc-4811-8b1d-ebebd528b087",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.3867413295,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "fa209410-c3fb-4b22-86ea-ec7af65bcc4c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.721115018877066,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "4184fdb6-5a81-45de-8206-0f27684a56c5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.4813945087,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "8110673d-a9c9-4093-953a-1c02b5c6f58e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.675039629300065,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "7496aadf-ead9-4415-9597-afa12a48d876",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.5221278902,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "1f610799-7c84-47aa-b238-57b321d34da9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.28391927583958804,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "e3038601-fb58-445b-941d-c1f247bd0e80",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1210.2691473988,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "d88476c4-4533-4bd1-bd99-be21bb293a0a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0008262624905784585,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "5cf3e8ad-0ef8-4029-86d6-053e88227424",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.9567377168,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "922f4884-57a0-498f-a000-6741c4ea1879",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2527334565933137,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG200",
+        "active": true
+      }
+    ],
+    "externalCode": "6aead896-6a0c-457f-a9b8-3622a576246b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.066197995,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "d2dd0576-d23d-4f96-a88c-7db3c3ea5817",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 15.106197702815622,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "4c2af273-5b8a-45c2-8167-f6726113c0c8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.391252263,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "9ef69f94-d35f-4cf8-bd87-35f8c1097060",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.5558957597645895,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "6c8c415e-dd7b-4755-9b83-e8702e3c8044",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.2194320096,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "1cfd0e25-fd2d-4907-8964-745902112152",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1607863866758975,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "ee281bdb-dffa-4651-9a0a-0a1a3e4364be",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.6027489799,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "82bec49f-71e8-4776-aac2-0c06c9dd8207",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.3842091602849926,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "10939825-fb8b-46b6-92e7-0ed4f908a850",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.3358313142,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "de1c8e00-2b32-49db-9a8c-b8dad647bb2d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.977685396557341,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "3567645f-125a-4b31-8b46-0b9ce94585f5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 14.8734946813,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "ad9d9f1f-4dd6-4f77-b80c-7e4661e0b2b1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.06723369466472934,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "f47c841c-cf11-4672-9c1c-51f6f743664b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.1643082965,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "f57fec80-ed62-4ba2-9ab8-7b7870be7dcc",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8588790469037081,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "a18096c2-001f-4184-9bab-3bedad3d07ec",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0407712816,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "d498731a-3077-457e-ac31-1571639c9160",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 24.52706809196795,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "f45ab744-00ef-4d08-8584-21e9965470ff",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2128883204,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "9e59851a-14a2-43b8-baf9-80d782077098",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.69729855598034,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "1b834362-4bb7-41d8-8646-6c32f4d6a0b0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4854399539,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "852cbbc7-d305-4708-adfb-f96c9f82244c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.0599870117118515,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "9ff9e3b9-fd58-4c5b-bd1e-4d86f19242ef",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 707.9127748304,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "be5fc9fd-1aae-4523-acb4-db60fdcebbdf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.001412603410412501,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "ee0f8e8d-ae99-4cf7-9845-c0fe86af67c2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.5732010484,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "26d06fe2-11bb-4992-a23f-6f37dba8bb7e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2798611067372707,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "111d28e8-aec5-490e-a2a9-84a9e2971b7d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2067499527,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "7532b392-27fa-4560-994b-257e6fd0532d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.836760477769144,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "8d69fa90-b052-4214-9343-9944cbc4f9d0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.3180061789,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "b67d9a20-2963-4b54-9d54-22f9441efd52",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.30138581608414133,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "624faf5e-3ac0-486b-b0ca-3939c22ce83b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.3334219036,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "62d72379-8bd0-4633-a640-544b1fcada12",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.999203079350423,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "bd3d21d4-0b55-41aa-8bae-dba581b7177f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.2998027436,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "3473cb48-289b-420e-bbca-6ec17369d5b0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.18868626784413667,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "13cf56c6-a44b-49d1-945c-9ba2ed31a078",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5260801816,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "6cef091f-0bae-4f70-a7f3-f322913e0db1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6552735642969705,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "6a809779-0ecb-40f5-8f7c-6525f980406f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0489988561,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "8a0f1251-6dd6-4f05-9aab-1ab9e407bd86",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 20.408639702917473,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "4064d20a-b2af-4d15-b0a1-dc82a2a04545",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0450357133,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "b7abe50b-906e-44cc-8c4d-3156dd1cf1d9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 22.204600010187914,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "e4a9c0d1-ac8f-4560-bc5c-c5910b9e18d5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2102987669,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "a774f2d0-1672-41f4-9de5-44f387a18373",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.755139627021751,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "4a8c459d-3682-433d-8224-5dd3ec4fbfbe",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0880808481,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "9dfc23cc-760c-4415-852a-e3bf64d8ef8b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.353205850886898,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "463a1ce4-66c8-4e93-a3f5-ec141dcc6bb2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2909036866,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "cd4c4490-24b1-4e13-9e05-5070cd7af2f5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.437563860698079,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "c6fc9855-c3f4-46ee-85a1-307c59b6a7e4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.3561469245,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "3383c41e-b3e7-4610-8ac9-9004bf5ae5d9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.8078299465983454,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "d3338873-8aeb-4c5e-99ae-297aaf47a47f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4520009367,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "6b2ca0e2-e1fc-4cbf-9f9d-9ceba8d26714",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.21238479570611,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "3fd04fc7-feaa-4277-a918-dd7455489819",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0786188447,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "ceeaf7b4-4ec4-4e27-9cc5-8ee9246c4956",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 12.719596730477013,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "b15c8504-60bc-4803-9cbf-5613d8310274",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7608783766,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "2089586d-6a41-493b-a2cb-6ed60a1e0cc3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.3142704941471983,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "aca0bdc7-7e79-4b47-a866-810952eb53d3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0498635418,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "63a7b32d-befb-458e-9a6f-835fce55a851",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 20.054732654389984,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "68229111-a128-4805-8534-8ef3dcecd18b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "e3e1a995-cfb8-42e2-a1cf-71df3cc5ddd9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "13e832f5-efce-470b-b1c8-df7fc0cc0ce4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0691478342,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "fbaef8a9-e52e-47be-8cc6-6c6a1100ce21",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 14.461768926957948,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "507b8eb2-2e00-4876-a273-cc4e17b7e57f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.073867577,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "9ab3a69b-04d5-4c6b-bfb7-1642b6fe0088",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 13.537739297987262,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "c33c0212-a550-4a96-976a-e76ee88749de",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1756257712,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "f7cfcf81-54d3-4329-a4e3-44646ea6c198",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.693925174917609,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "279cc904-6cfb-40f1-8e3b-90c6f2116f3f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 60.3483062068,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "49aa8463-398b-4dd8-b01b-8f9ca8821fe6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0165704733546825,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "53f7c8c9-afd4-4982-b2f2-d1b07cac44aa",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1972969565,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "ca0d048f-a78d-4286-97d3-bcce589f6255",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.068501905654079,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG700",
+        "active": true
+      }
+    ],
+    "externalCode": "98d45ab9-d67f-42a6-8eb6-729b0f533789",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1363670099,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "1365ce6b-7d23-467d-86f2-6604e9b5159d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.333151916532563,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "c293bae4-b8b7-4b4a-9bef-535ebffbdcf7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8059745802,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "d2222ff4-cdf4-44b1-aec4-773882d95c1d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.2407339196130145,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "0a7b0868-1204-4ce5-9bd6-900b770ad475",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 12.8119491604,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "6f61c8fd-cea2-437a-984e-3eb018dc5251",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.07805213613326414,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "d384e7b2-3bad-439a-a1df-96f0ee06e089",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.3616290936,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "78ec6692-8794-4f66-bb09-2b2dfc451c2c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.18651047704766952,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "143933cc-4c9f-4ecb-b6c7-513b5c432159",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6918081455,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "6f9ec7c5-a8f7-4949-82f5-7c3c230c961c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.4454874613788427,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "db4017da-36e7-48ce-89f4-55210fd93ab7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 30.6392058633,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "8d6fe14a-9a84-4929-b5df-9d162595164f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.03263792163744726,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "e3512f9f-1f36-41d9-a0a8-536ed3d2a42f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.3984599685,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "da1ce8c6-f855-476a-ba2f-05607e4d5202",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4169342049204187,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "10184033-b684-47d7-976c-1b5cc36e3295",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0839883106,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5232e8ba-2b23-4c91-b53d-5b02efe2189b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.906418796331879,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "e30302a2-d7a7-4b14-bb43-4ea7833eda88",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4385471751,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "a040c7c4-eb65-433c-8698-6c1b84942865",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.2802563937892755,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "1edfd831-76d4-4333-89be-1cdc3ff32b45",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "eecc9c0a-05b3-47bd-b0f9-fbf065153e27",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "9eb987f5-03f2-4d98-8915-3e9e93c0a564",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1458.2911216254,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "672d2b25-4bb1-48b0-8adb-15acef9947d0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0006857341344061725,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5b8bcb8f-b75d-4f89-970f-aa1859cca711",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.3607477503,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "4fa61a69-5e24-462c-8a13-c2ded1232574",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.13585576274628394,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "f006bbb9-6a1b-453d-b20d-c73d91b8f316",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4259022173,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "7ce98ad7-5c45-4ee5-8f68-2bb91af271bb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.3479567829899626,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "2705f30b-5cb7-45a7-be35-1df0deef9fda",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.8350496335,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5cd281e0-cdd8-4a86-96d1-54f0baefa471",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.14630471666201106,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5c2e4739-549a-485a-a2b1-7262c95a2e06",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6868447908,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "4d763cbc-fb79-4266-b858-c78fdb416e45",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.4559330046534291,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "b8aef7a4-0910-4a66-b546-cdb3e60a6f8b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.9175248168,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "c5951567-5b0a-4d22-8ed4-e63821b2394e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.09159585316089135,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "7b8295c5-a249-4c52-86fe-6d303111ba4d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.143705353,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "80439d1a-ac30-4665-acf5-a2ee949b1079",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.31809596883680974,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "9af0fcdf-b87b-4aea-952c-6bf0d6ec99bf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1009370071,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "e8ec8930-1532-45bd-b918-e7f3f2497c5c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.907169121918615,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "f378140e-35f8-4843-8540-dc5415f45b5d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0927729845,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "f346b54f-d27b-4be9-a07c-3c57ae1811e7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.779000000803036,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "4d68d9eb-5903-433c-bc63-7a010e4b9128",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4332127285,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "f2666eb4-b263-43ab-a8f9-0a6921d5fe7e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.3083347607594593,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "d767c027-ee29-4724-a5bb-2727d53d517c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1814454031,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "aa7f433a-1dd8-4d76-835b-db49c8f1f61c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.511299723856162,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "8b7f6f7a-5924-49a9-b57a-d865d8de0f98",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5992578161,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "46a0b521-192d-4b9f-9dfb-b0bf63b9f39c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.6687308419405362,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "d93c4e38-8e2b-47d1-9784-398b7da61f82",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7336580388,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5122dbdf-e7e2-4f53-bb03-586cc1faac67",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.3630328397077736,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "6ae1bf72-7602-44f0-8b89-94fcc6209a0b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.931116059,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "554305f8-8105-4e02-9de9-69fe3e267eb3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.073979973102365,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "3277adb5-5dd9-436c-b37a-735ec1ae0410",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1619537991,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "a89ae3f9-7a02-40e2-b01a-2cc142ef4f8d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.174600445047541,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "53164d46-7372-475f-82bf-f6437ad44b0b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5673995732,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "0b654228-d5ab-4cea-a901-6b4213186735",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6379994081269283,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "862645f9-ea7d-42c2-bbb1-b3791da7e149",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1027182484,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5da22788-048b-4c37-a36e-121ba42fd313",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.735368501474563,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "c55c4d61-c062-424f-a742-3595bf0ab199",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.0599870118,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "02b207fb-8a3d-4625-983b-1f34e9d5eac5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4854399538792276,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "a16329a1-b1be-4c76-a534-20789d280bca",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1424436404,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "235588a1-4eff-4ad1-9c10-1dbe73cc227c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.02032043825805,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "43dba523-5982-419e-8a50-9ebbca383b49",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1521662492,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "5680e0be-edbd-437a-9cd5-20e46befaa95",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.57175954101128,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "fb2be376-4f0e-455e-a1fd-68ce0fcb37e7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.3617868077,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "45293145-1733-47f2-96d2-593e0abcc590",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.7640587736112745,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "cf9b29ab-2a6e-412e-9d32-f424c73d8be2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 124.3167269691,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "3d6b70d5-9e31-43ed-9997-4899557e4807",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.008043969821121164,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "b9719fee-e587-4835-81de-8655d796b6a0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4064291678,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "71f1621b-fd83-4ba3-bd07-901c60449b50",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.4604533316666157,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG500",
+        "active": true
+      }
+    ],
+    "externalCode": "1141f7e6-e7a7-49f7-8534-80ecca2123f3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0124906526,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "49d55dd3-5049-4b54-be76-b4dc32463c28",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 80.05986812890785,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ec98d7e3-aef3-493f-b22c-f948e6fccc3d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0738239293,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "a3e945c2-91a2-4a2a-b01a-7d322d480554",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 13.545743358312412,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "f9759c49-20c5-4b24-a665-4ca7f94b3bca",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.173521414,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "76ade9f6-e708-48c8-8970-1c4db0eb91f2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8521361332397467,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "07468d09-4115-4b20-9e50-7d66026b1138",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4911029912,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "2bdf7fe0-ba25-4459-802d-44426eaf061a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.0362327615975637,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "dd360a43-2b15-4731-acd4-0521f1c7f7fa",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0633667573,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "2f4be393-39d7-4968-bd8a-fa7b398d1b8d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 15.781145234648134,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "7a62d202-ce33-4162-84f9-20c944623d42",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.8064242012,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "eb9ab367-9181-4a84-a802-e7dc0dda345b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.35632531944828927,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "5755c23c-c111-4325-aaa7-5d4e6131b207",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2196889871,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "62b0854a-7bf7-4a2f-8f12-cb8197efc161",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.551889528922135,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "96ed066c-2c01-4c39-90ac-608354bfdacb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.007692981,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "6e269655-2858-4c17-80df-a17477d2aba4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 129.98862209590794,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "218f7120-4188-40b1-b31a-b6b3ad3dca8e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0401691027,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "62c200e7-8bf6-4806-8617-8f9e0565065d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 24.894755739714345,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "afc27df3-4dce-4449-b96d-5f262d3307ea",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0915958532,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "892bacfd-455d-45b9-b8e5-8b27221c2bcd",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.917524812138549,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "35d7eae2-90e0-48b7-9e2a-95d9b7c286a8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 133.5734194426,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "b789cdf9-67d4-41d0-a0d3-fcbea1a3b7ac",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.007486519430085611,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ecb93439-9528-4113-af20-bc279a94482b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6742139701,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "5d5b3641-e6cc-41a1-a9cf-d95df7b6d0b8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.483208661267697,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "54e4053e-bbd0-4bf5-84ab-e3d38b7ecd2f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.039010877,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "2ebb0a90-8858-477a-9dc9-bf20732c3532",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 25.63387641862038,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "713ad044-fc17-4365-a7ac-33cb14eb822b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6260622026,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "53ad1773-df5b-47a0-a127-26d8ed6d4921",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5972853749149174,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "bbacb31a-31db-4d4c-8c18-873558101b5f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0629121346,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "fb147a86-2d7c-434d-8808-7f7d77d5c90b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 15.89518471051847,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "bba02a23-a14f-4e61-8e11-4f0e6dc5661b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "02fb0e61-e367-43c2-99d6-e502701d2a55",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "f65b1af4-8d82-4d2d-97e1-5a238734ded0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2879503739,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "944d66d6-280b-41e0-b437-f37f00dd3b5b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.47282063383353,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "c224473e-6ac2-4ece-b3b1-b8acb4845007",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0092454113,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "fa988195-82cb-4581-90f8-a24f2620aa19",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 108.16176452852886,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ed7d3213-02d5-47fc-8079-e8011533871c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0084976207,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "cb951f91-0ece-4e04-bd08-7ebac2d9f9eb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 117.67999953210432,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "f767db3d-36b8-47e3-9200-c1dfd96217b1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0396804895,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "999f63e9-fd6c-4526-90dd-30cc333e3dc6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 25.201302015188094,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ec10273f-9df7-4086-bf2f-f82f18d46776",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0166196465,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "af5a916a-cb8f-481f-83df-343e94a14a19",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 60.169751504642406,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "33a511ad-89d9-4c17-b778-14da48e332e1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0548895309,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "7e9786a3-32d9-4059-ae56-0f6461579a83",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 18.21841038907476,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "6999c7b4-9ae7-498b-92ed-b64e8c4b1ac9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.067200034,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "c76fc239-b94b-4526-b7b0-fcba6bc6943e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 14.880944851902902,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "bb98b054-c985-41d0-a64c-03bf7ae9cd07",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0852863698,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "00a7817e-d599-4f67-a7fe-c0ff33740e06",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.725203011278833,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "44e3a421-3f8f-48f7-ba9a-77e98037712f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0148342964,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ba5da2a9-1046-4303-b5b6-fabf2798b32b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 67.41135359813897,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "4c863870-ed36-4818-a8f2-a6567837ac23",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1435673012,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "4120ab76-da30-4302-af5a-5fdd80e412f1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.965374368965292,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "efde583f-1686-407f-b1f2-3bc7ecd36563",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0094085656,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "659fc608-b51d-479a-add2-5d8ec1dab8f0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 106.28612718606118,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "09694102-08a1-4a5b-ae95-89e2faa28f9c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1886862678,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "03c92e10-0c26-4e46-9a38-91fea22c1c40",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.299802744839707,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "742ab4e2-a544-4281-b2fe-e4e88c57bc1e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0130472468,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "7185a2bf-449f-44e8-9208-0ee1a38b0c99",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 76.64452242905377,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "4d1e6206-974e-4f61-84b1-cb5ccd71d523",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0139377974,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "7e5b8095-2e4b-4da3-b4fc-f7f0ec24ea8f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 71.74734797049067,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "d46e4f78-ceba-4010-99e9-72ec897893bf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0331381713,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "ae04c482-b028-497c-b8c6-0387f2de416a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 30.176680268413,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "9fa00688-ccce-4836-9af2-4b3a419d8369",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.3868966689,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "3907ba7d-7c9a-4e9a-988f-7f3037213a61",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.08782024014771377,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "a7b45ae4-b09a-4b12-b4a7-e161bad03460",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0372272264,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "15121fe0-04ec-4bc2-adab-a88d9c4800be",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 26.862060290368557,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG600",
+        "active": true
+      }
+    ],
+    "externalCode": "41bff9d8-b080-4553-b5c4-47d2068170f2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.6236427301,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "2394fb81-35ad-42ca-9301-02f4736b18f1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6158990407565894,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "fde55f84-e8b9-4fd2-bc3a-44e5299f69a4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.5962708906,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "96677f9c-b420-40ab-8bad-00d70a9ad257",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.10420714581739739,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "7103b63f-5b69-490e-bc56-aed946fca58b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 152.5444322939,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "51715134-410b-47db-8eaa-37275f3af626",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.006555467052860692,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "624bc323-d27d-4d5c-8be6-f780b36ef023",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 63.8378014161,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "b24f9e3e-c4a4-41d7-bc2d-1363afd6a17c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.01566469987714518,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "a35ef3f5-9eae-4e46-b46f-3d6f298c0027",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 8.2369575063,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "3995cd2f-7323-4480-95fc-deb879c597d8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.12140404988554991,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "3d739688-1717-4249-9b16-a168bc3cbed2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 364.8032165777,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "31b56175-3582-4088-b6e9-f8fab46bed4d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.002741203899957961,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "00b155c2-e95a-4c1a-b42f-56cf5a7bf411",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 28.5570688493,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "2d690620-f9d0-460f-b48b-c8a2c3f01514",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.035017599504947525,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "4a9dabff-ff56-45ca-9c54-0c57e93530e3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "a093f7a2-1b8f-4da5-9f2f-b196add21879",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "eba37869-2ac0-4808-be29-c3cd75ee8229",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.221526328,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "5adfa2b6-41f4-48b5-951e-4010c01746a1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.19151488227447658,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "b4188f04-442b-415b-b6ed-0b29f05d63bf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.9064187958,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "e9bbbaad-87a5-461f-8bbf-a25be6c9570b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.08398831060375189,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "eddd9f57-f99f-4448-9487-8ba24c0ee0bf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 17363.0248202273,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "e6a38b22-425a-4975-b257-ebe538bd5972",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00005759365147223864,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "d7c5611e-52b6-4182-8866-7ac594526180",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 87.6401453646,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "0309d731-63ec-41f7-ac68-ba54a0b55d30",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.011410295998937543,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "636bc3cf-9d2f-404c-8e33-8e2a1abaa6d3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.0709701649,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "dbe318dc-47bc-4925-a903-ff87095d21da",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.19720092358692076,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "4ab8ea20-14f3-41d5-b018-28c69927c01e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 81.3809634269,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "63965950-1f53-4d70-bc56-5e25e0bcec08",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.012287885985747078,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "3a1cbaf4-839f-4f77-b1cc-47590fd1f1be",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 8.1778617269,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "14c01f26-3519-4aeb-b0fd-4949f60b8b8e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.12228135341425884,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "8ebd450b-a3d8-408b-9e38-73bab08c6a0b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 129.9886226817,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "167669ca-db29-4f5a-9194-548d7b0e8241",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0076929809653316795,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "3e0e2709-315d-4c10-bcbc-a95329d8f0af",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 37.4302725033,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "9392a39f-5d25-43f3-93c1-5f4b36ca2e7d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.02671634303255035,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "7a4290ad-91aa-4fc2-a0a9-128a702a0e52",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.201798279,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "597dd302-f233-40a3-9fc8-8b36664bdf3c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8320863970882755,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "8f0b46b0-5204-4399-982c-ba7816c1d46f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.1045940065,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "a50eb898-ebbd-4dd4-9841-8fce626e260b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9053099999778064,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "316a7ba9-6a6a-4a03-b21b-e87edc906ad6",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.1580121726,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "06e0224a-56a4-44aa-acac-5740f90d2167",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.19387313688636174,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "4e04b332-aa77-441d-b55b-fe4f38790731",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.1603649579,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "17a7b45b-0683-49cf-a615-2107899ca9f0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4628847530336068,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "e07ade23-4703-403b-8b95-57eb1534877e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.1350145254,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "97405ac2-3d81-44be-9773-8e1b41eccd24",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.14015388426191586,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "3e49934f-ca14-492e-bf57-5602625e60e0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 8.7352398626,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "4de0465d-9a9b-4591-84ba-07de13cb357e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.11447882550787278,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "cfe392d9-1c6d-478b-aaa9-b224f4e13601",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.086257746,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "e8481913-0b72-4f35-a408-6f2e4cb0866e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.09020176356271413,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "fe5edad7-bd6f-4ebc-b128-de10bd202d18",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.9282897571,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "5f0a1adf-4e65-41a4-82da-1fc35aca65b9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5185942601821022,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "5391e656-9649-40c1-92f8-51880568da08",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 18.6621157394,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "44b2bd9d-d38d-439b-9bf9-a45535f6f99b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.053584492453273715,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "e55ab03b-c122-4a51-9398-7682a331ec74",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.223006484,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "43be87a2-d375-4ea5-83f1-a5891163f0d0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.8176571531570066,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "44229126-5d45-4b12-8b5d-228799540858",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 24.5270680761,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "512f7218-d2e5-48a2-b632-1dad07c0c042",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.04077128162637725,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "55f90c0f-f604-4860-bb2c-c0de6fe2571e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.6959936375,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "5f3268e2-8b67-4d72-9b0d-f21004ebddfe",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5896248534717748,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "510670ba-d249-4be8-9de2-f15367531474",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.8117550894,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "7005b330-379c-4cef-8d63-e74039998624",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5519509815927552,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "19e4cfc8-6114-401a-aea3-6428d4c238ee",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.307585247,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "a173f9f8-feef-408f-8fbc-32d73cf0bb69",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.23214862681973525,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "19942acf-def7-42bd-a920-bdd2ae6107a9",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1480.1670146138,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "ad94a3ed-b3cd-47fb-b2db-59f608e11bea",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0006755994358250961,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "69e7c2b3-8915-4f47-beda-05c644c926ee",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 4.839115883,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "398c880c-2eb5-4089-a8bb-9c2c5010a83e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.20664931863133065,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG300",
+        "active": true
+      }
+    ],
+    "externalCode": "35676a61-677d-457e-bcad-238c6683fe54",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1464554377,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "CAD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "2c6c3786-a310-441f-b000-09fa3a9df2b8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.82801550904791,
+    "currencyCodeTo": "CAD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "0bd88f37-dfcb-455d-a309-24f7179c514c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.865600558,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "HKD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "de223a61-4321-4e16-b232-47ac516365dd",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.1552672774501607,
+    "currencyCodeTo": "HKD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "605048ab-c8cf-477d-8764-8f7c7e1b9a3d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 13.7597768146,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "ISK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "91c0d765-f7da-4deb-a2ac-cfe28cc5bce5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0726755973933339,
+    "currencyCodeTo": "ISK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "6c54fdf3-31ce-47bc-bff6-8b1fee6fc39c",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.7582822697,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "PHP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "43bfe27e-dc2f-48cd-a911-fedc94c751e2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.17366290035172224,
+    "currencyCodeTo": "PHP",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "1d8cfded-60a7-4f01-b877-c14598ef0ef4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7429880935,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "DKK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "64eebaf3-7ca2-4da3-8be1-34806d1805d4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.3459165883658943,
+    "currencyCodeTo": "DKK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "77ce26bc-e7e6-4df1-8209-a0a72fbdf73e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 32.9058934888,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "HUF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "18c075ca-03c5-44e0-a51e-2f3ecdbd6683",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.030389692969144406,
+    "currencyCodeTo": "HUF",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "61ca350f-5a3c-4be2-81ef-2fc2b915132a",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.5758979724,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "CZK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "474d28e9-ee8a-4f38-aed4-8bf42aaad014",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.38821413375634833,
+    "currencyCodeTo": "CZK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "e76df521-160b-458d-87ad-33bc7ec13993",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0902017636,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "GBP",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "72d627d3-70e2-4629-a67f-679a3a8932a1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.086257741417375,
+    "currencyCodeTo": "GBP",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "eabac1f1-32e8-457e-b552-a2d2b914e8fd",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4709908833,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "RON",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "4dfab0e0-9fa0-49a1-a7d1-696ff3a5d0f4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.1231833469758374,
+    "currencyCodeTo": "RON",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "1df0bffb-12aa-4ca0-b191-44284c57c64f",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0739799731,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "SEK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "5be2c02a-b9e9-47db-ab7b-8478112653ed",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.9311160590020504,
+    "currencyCodeTo": "SEK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "7236cf60-3341-4225-ac58-cd02987bb28b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1566.1754595726,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "IDR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "10703095-13ca-47ea-8ca8-4e2c9ed402e0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.000638498064752524,
+    "currencyCodeTo": "IDR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "8369cef2-e389-435e-b6c4-6c46ddb90146",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.9052956708,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "INR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "33223fd1-33c7-41f9-8c5d-b146b3ce6f6b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.12649748240204683,
+    "currencyCodeTo": "INR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "27d7fbf3-171b-4f40-9544-a1d3575f1d29",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4574104519,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "BRL",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "f9b4b208-908f-4531-94dc-73d397b01ac7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.1862202663847787,
+    "currencyCodeTo": "BRL",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "9962f22c-4e4d-44c4-bcdb-c026d2722656",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 7.3407064216,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "RUB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "c8fb6353-010f-4f3b-9cf2-0a96c09527ac",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.13622667119032358,
+    "currencyCodeTo": "RUB",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "7567e6b9-6197-41bc-887a-3f247fd132c5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7376575499,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "HRK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "f9c0d76a-0441-459a-b9d5-021e2aa31478",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.355642601550766,
+    "currencyCodeTo": "HRK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "ef6ab5e4-4a23-4fc5-b2da-62928ccd68e7",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 11.725203009,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "JPY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "74e113db-c9b2-476f-946f-f9023c946418",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.08528636981657568,
+    "currencyCodeTo": "JPY",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "6978637c-0e6e-43fd-9c90-88596ff6cdba",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 3.3762765904,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "THB",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "335fa492-1ab6-4541-9ca9-e923e4fcea89",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.2961842648920912,
+    "currencyCodeTo": "THB",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "52028676-e6ac-470e-b36f-eb5073b1faa4",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1084043242,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "CHF",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "a38eedb9-267b-4e15-8df2-9651f472dbe2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.224724266119265,
+    "currencyCodeTo": "CHF",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "5f7c692f-a176-4b6b-8522-17b2e48586fb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.0996363274,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "EUR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "71d4e7a2-a55c-49c3-89c3-643b54ac7f56",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 10.036500000500821,
+    "currencyCodeTo": "EUR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "7381e8bc-c412-438d-9611-068be341f102",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4652617945,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "MYR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "feb1eee2-80c9-4d64-92a0-89c8a0b7abb2",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.149327565300443,
+    "currencyCodeTo": "MYR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "e272e07d-b02c-4059-9b8b-46883c1302ed",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1948687291,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "BGN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "9d86eab2-a2d8-4ef0-87b9-8c11797d5a1b",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.1316596799214205,
+    "currencyCodeTo": "BGN",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "5f1065f2-a8e4-47c9-9b1a-c395ff4be477",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.6435908932,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "TRY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "65fe6e8c-59f8-437c-91e9-f4e7398600d1",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.5537820851191622,
+    "currencyCodeTo": "TRY",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "7673bc36-378d-418a-ad0d-eab5d9dff35e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.7879340408,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "CNY",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "98481d9a-f576-455e-85db-98d3a4d35ea5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.2691417659588442,
+    "currencyCodeTo": "CNY",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "b74a4c87-d8c6-49e4-9183-ca0960040509",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "e7f97c7e-bfbd-45e4-b210-91a53dd5598d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.0,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "a3f8da3b-9de5-4bff-975d-2a278d78f874",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1739351368,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "NZD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "492710db-fe23-4432-bc0f-5ef10220aadf",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 5.749269632333425,
+    "currencyCodeTo": "NZD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "30f0c756-7e86-41f5-921c-a7b866d2a5d5",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 1.6833557515,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "ZAR",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "3612710c-a4e7-48f1-858f-509d93ae32d0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.5940514945274775,
+    "currencyCodeTo": "ZAR",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "b7e87685-aab9-456c-b3b6-ee785c0e0724",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1103173417,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "USD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "f00b25c0-1528-474d-ad58-f596d56c3205",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 9.064757948205708,
+    "currencyCodeTo": "USD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "7b251d5a-7d35-4a03-bfbe-e4abb6d23ae3",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.2123847955,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "MXN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "bf669d35-5823-4a70-b973-164559b412e0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4520009367421094,
+    "currencyCodeTo": "MXN",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "1e2c8820-f8fa-4821-b789-8b2d96d97726",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1529816171,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "SGD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "d2cf2d17-2305-4c9a-88ce-aac91eb0596e",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.53673309876393,
+    "currencyCodeTo": "SGD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "a7d1d734-20d1-475d-a29a-c37656f34d76",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.1634235042,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "AUD",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "2d14f365-d571-4143-b1d6-f5a60dfb35aa",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 6.119070845379657,
+    "currencyCodeTo": "AUD",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "6c95a2d0-a807-4c31-bd77-1529b6571750",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.388551786,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "ILS",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "cbbaf86d-fae9-4d43-a084-5e964518eab8",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.5736595121454413,
+    "currencyCodeTo": "ILS",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "ef0b50f1-4a83-4e89-8257-d5302095918d",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 133.5136750859,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "KRW",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "0a110626-7967-4728-88a3-aec9a23bc1f0",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.00748986947858802,
+    "currencyCodeTo": "KRW",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "991eb487-46c7-43b5-ba6e-733beeb83c26",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 0.4364967867,
+    "currencyCodeTo": "NOK",
+    "currencyCodeFrom": "PLN",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "745133e1-fe38-47e3-afc1-72e0f099da24",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  },
+  {
+    "rate": 2.2909676095446043,
+    "currencyCodeTo": "PLN",
+    "currencyCodeFrom": "NOK",
+    "validFrom": "2019-08-29T00:00:00",
+    "companies": [
+      {
+        "companyCode": "NG400",
+        "active": true
+      }
+    ],
+    "externalCode": "badf71ed-718d-4f4e-9039-1c361f0f26cb",
+    "lastUpdated": "2019-08-29T20:05:29.948Z"
+  }
+]

@@ -16,6 +16,10 @@ companies = {'NG': '',
              'NG600': 'JPY',
              'NG700': 'MXN'}
 currencies = set(filter(None, companies.values()))
+basware_exchange_rate_url = 'https://test-api.basware.com/v1/exchangeRates'
+
+# add API username and password inside the single-quotes below, e.g.: auth = ('api-user', 'secret-password')
+auth = ('user', 'pass')
 
 
 def add_timestamps(list):
@@ -35,6 +39,11 @@ def get_api_rates(currency):
     response = requests.get(request_url)
     date = response.json()['date']
     return response.json()['rates'], date
+
+
+def post_api_rates(json):
+    response = requests.post(basware_exchange_rate_url, auth=auth, json=json)
+    return response
 
 
 def get_companies_by_currency(currency):
@@ -126,3 +135,13 @@ json_data = add_timestamps(json_data)
 # Let's save a copy
 with open('exchange_rates.json', 'w') as f:
     json.dump(json_data, f)
+
+# and then post it
+response = post_api_rates(json_data)
+response.raise_for_status()
+
+# and just in case, let's save the API response
+with open('api_response.txt', 'w') as f:
+    f.write(response.url + " returned HTTP status code: " +
+            str(response.status_code) + '\n')
+    f.write(response.text)
