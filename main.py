@@ -3,7 +3,7 @@ import json
 import time
 
 # Some basics
-exchange_rate_url = 'http://api.openrates.io/latest'
+exchange_rate_url = 'https://api.exchangeratesapi.io/latest'
 companies = {'NG': '',
              'NG100': 'EUR',
              'NG200': 'USD',
