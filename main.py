@@ -135,7 +135,7 @@ json_data = add_timestamps(json_data)
 
 # Let's save a copy
 with open('exchange_rates.json', 'w') as f:
-    json.dump(json_data, f)
+    json.dump(json_data, f, indent=4, sort_keys=True)
 
 # and then post it
 response = post_api_rates(json_data)
