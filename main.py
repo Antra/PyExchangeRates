@@ -99,7 +99,7 @@ for currency in currencies:
 #      'EUR': {
 #           'CAD': 0.1363670099,
 #           'HKD': 0.8059745802,
-#           'USD': 1.1072
+#           'USD': 1.1072,
 #           'date': '2019-08-29'
 #     },
 #     'USD': {
