@@ -15,3 +15,8 @@ Run `main.py`, e.g. `python main.py`
 
 ## Output
 The fetched exchange rates themselves are saved as `exchange_rates.json`, the latest BaswareAPI response is saved as `api_response.txt`.
+
+# Comments/Feedback
+Comments and feedback is welcome, just reach out to me.
+
+Anders Demant van der Weide
