@@ -66,7 +66,7 @@ def generate_currency_pair(currency1, currency2, companies, rate, date):
         company_list.append(dict({"companyCode": company,
                                   "active": True}))
 
-    # generate the 'forward' exchange rate; currency2 -> currency1 (base)
+    # generate the 'forward' exchange rate (we get the reverse rate from the API); currency2 -> currency1 (base)
     currency_pair['rate'] = get_reverse_rate(rate)
     currency_pair['currencyCodeTo'] = currency1
     currency_pair['currencyCodeFrom'] = currency2
