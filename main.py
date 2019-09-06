@@ -3,6 +3,18 @@ import json
 from datetime import datetime
 import time
 import uuid
+import os
+import logging
+
+
+# setup logging
+if not os.path.exists('logs'):
+    os.mkdir('logs')
+logging.basicConfig(filename='logs/rates.log',
+                    filemode='w',
+                    format='%(asctime)s %(levelname)s: %(message)s [in %(pathname)s:%(lineno)d]',
+                    level=logging.INFO)
+logging.info('PyExchangeRates starting!')
 
 
 # Configuration section - update companies and auth to your setup.
@@ -88,6 +100,7 @@ def generate_currency_pair(currency1, currency2, companies, rate, date):
 
 # Get the exchange rates from the API
 rates = {}
+logging.info('Get the ECB exchange rates for: %s', currencies)
 for currency in currencies:
     rates[currency], rates[currency]['date'] = get_api_rates(currency)
     time.sleep(1)
@@ -112,6 +125,7 @@ for currency in currencies:
 
 
 # Okay, now that rates is built, let's start constructing our output.
+logging.info('Data from ECB received, start constructing the output')
 json_data = []
 
 # for currency in currencies -- currencies holds a unique list, so we don't risk double-generating anything
@@ -130,17 +144,23 @@ for currency in currencies:
                 currency, rate, company_list, exchange_rate, date))
 
 
+logging.info('Output constructed, add timestamps')
 # add 'lastUpdated' timestamps
 json_data = add_timestamps(json_data)
 
+
+logging.info('Save a local JSON copy to: exchange_rates.json')
 # Let's save a copy
 with open('exchange_rates.json', 'w') as f:
     json.dump(json_data, f, indent=4, sort_keys=True)
 
 # and then post it
+logging.info('Post the exchange rates JSON to the API')
 response = post_api_rates(json_data)
-response.raise_for_status()
+logging.info('API called, returned: %s', response.status_code)
+# response.raise_for_status()
 
+logging.info('Store full API response as api_response.txt')
 # and just in case, let's save the API response
 with open('api_response.txt', 'w') as f:
     f.write(response.url + " returned HTTP status code: " +
